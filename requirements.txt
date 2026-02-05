@@ -1,0 +1,11 @@
+fastapi 
+uvicorn 
+pandas 
+openpyxl
+requests 
+psycopg2-binary
+sqlalchemy
+numpy
+snowflake-connector-python
+snowflake-sqlalchemy
+snowflake-connector-python[pandas]
